@@ -1,0 +1,73 @@
+{
+    "answers": [
+        {
+          "value": 1,
+          "question_id": "question_a"
+        },
+        {
+          "value": 0,
+          "question_id": "question_b"
+        },
+        {
+          "value": 2,
+          "question_id": "question_c"
+        },
+        {
+          "value": 3,
+          "question_id": "question_d"
+        },
+        {
+          "value": 1,
+          "question_id": "question_e"
+        },
+        {
+          "value": 0,
+          "question_id": "question_f"
+        },
+        {
+          "value": 1,
+          "question_id": "question_g"
+        },
+        {
+          "value": 0,
+          "question_id": "question_h"
+        }
+    ],
+
+    "questions":
+        [
+          {
+            "question_id": "question_a",
+            "domain": "depression"
+          },
+          {
+            "question_id": "question_b",
+            "domain": "depression"
+          },
+          {
+            "question_id": "question_c",
+            "domain": "mania"
+          },
+          {
+            "question_id": "question_d",
+            "domain": "mania"
+          },
+          {
+            "question_id": "question_e",
+            "domain": "anxiety"
+          },
+          {
+            "question_id": "question_f",
+            "domain": "anxiety"
+          },
+          {
+            "question_id": "question_g",
+            "domain": "anxiety"
+          },
+           {
+            "question_id": "question_h",
+            "domain": "substance_use"
+          }
+     ]
+}
+
